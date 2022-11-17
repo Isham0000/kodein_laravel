@@ -6,7 +6,7 @@ use App\Models\Article;
 use Illuminate\Database\Eloquent\Factories\Factory;
 
 class ArticleFactory extends Factory
-//Docs
+//Your Code Here
 {
     protected $model = Article::class;
     
